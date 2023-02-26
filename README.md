@@ -11,8 +11,9 @@ This project is the Sprint Review and Retrospective artifact for a fictional sof
 * Pros and cons of the Scrum-agile approach for the SNHU Travel project
 * Determine whether or not a Scrum-agile approach was the best approach for the SNHU Travel development project
 
-## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+## Wrap-up Questions
+### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-## How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+### How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-## What does it mean to be a good team member in software development?
+### What does it mean to be a good team member in software development?
