@@ -13,6 +13,7 @@ This project is the Sprint Review and Retrospective artifact for a fictional sof
 
 ## Wrap-up Questions
 ### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+The needs of the users should be conveyed directly from the users in a face-to-face (preferred) or virtual meeting with the Product Owner. This way, the Product Owner can hear from the user in their own words who needs something accomplished, what they want to accomplish, and why they want to do it. The Product Owner can then develop user stories based on the user needs by documenting an informal description of the features to be developed. Doing this helps the Product Owner and the rest of the Scrum Team identify the specific feature that needs to be developed that will bring value to the user. 
 
 ### How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
